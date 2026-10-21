@@ -50,3 +50,5 @@ tenant isolation, observability and ADRs.
 ## Contact
 
 [Email](mailto:devrochy@gmail.com) · [LinkedIn](https://linkedin.com/in/robinson-aguilar-ramirez-8970a1129)
+
+<!-- 2026-10 refresh -->
